@@ -1,0 +1,16 @@
+d:\users\ism\documents\visual studio 2013\Projects\ConditionalsAndRefactoring\ConditionalsAndRefactoring\bin\Debug\ConditionalsAndRefactoring.exe.config
+d:\users\ism\documents\visual studio 2013\Projects\ConditionalsAndRefactoring\ConditionalsAndRefactoring\bin\Debug\ConditionalsAndRefactoring.exe
+d:\users\ism\documents\visual studio 2013\Projects\ConditionalsAndRefactoring\ConditionalsAndRefactoring\bin\Debug\ConditionalsAndRefactoring.pdb
+d:\users\ism\documents\visual studio 2013\Projects\ConditionalsAndRefactoring\ConditionalsAndRefactoring\bin\Debug\FeatureFactory.dll
+d:\users\ism\documents\visual studio 2013\Projects\ConditionalsAndRefactoring\ConditionalsAndRefactoring\bin\Debug\FeatureFactory.pdb
+d:\users\ism\documents\visual studio 2013\Projects\ConditionalsAndRefactoring\ConditionalsAndRefactoring\obj\Debug\ConditionalsAndRefactoring.csprojResolveAssemblyReference.cache
+d:\users\ism\documents\visual studio 2013\Projects\ConditionalsAndRefactoring\ConditionalsAndRefactoring\obj\Debug\ConditionalsAndRefactoring.exe
+d:\users\ism\documents\visual studio 2013\Projects\ConditionalsAndRefactoring\ConditionalsAndRefactoring\obj\Debug\ConditionalsAndRefactoring.pdb
+C:\ConditionalsAndRefactoring\ConditionalsAndRefactoring\bin\Debug\ConditionalsAndRefactoring.exe.config
+C:\ConditionalsAndRefactoring\ConditionalsAndRefactoring\obj\Debug\ConditionalsAndRefactoring.exe
+C:\ConditionalsAndRefactoring\ConditionalsAndRefactoring\obj\Debug\ConditionalsAndRefactoring.pdb
+C:\ConditionalsAndRefactoring\ConditionalsAndRefactoring\bin\Debug\ConditionalsAndRefactoring.exe
+C:\ConditionalsAndRefactoring\ConditionalsAndRefactoring\bin\Debug\ConditionalsAndRefactoring.pdb
+C:\ConditionalsAndRefactoring\ConditionalsAndRefactoring\bin\Debug\FeatureFactory.dll
+C:\ConditionalsAndRefactoring\ConditionalsAndRefactoring\bin\Debug\FeatureFactory.pdb
+C:\ConditionalsAndRefactoring\ConditionalsAndRefactoring\obj\Debug\ConditionalsAndRefactoring.csprojResolveAssemblyReference.cache

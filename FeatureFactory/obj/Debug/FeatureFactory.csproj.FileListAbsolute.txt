@@ -1,0 +1,10 @@
+d:\users\ism\documents\visual studio 2013\Projects\ConditionalsAndRefactoring\FeatureFactory\bin\Debug\FeatureFactory.dll
+d:\users\ism\documents\visual studio 2013\Projects\ConditionalsAndRefactoring\FeatureFactory\bin\Debug\FeatureFactory.pdb
+d:\users\ism\documents\visual studio 2013\Projects\ConditionalsAndRefactoring\FeatureFactory\obj\Debug\FeatureFactory.csprojResolveAssemblyReference.cache
+d:\users\ism\documents\visual studio 2013\Projects\ConditionalsAndRefactoring\FeatureFactory\obj\Debug\FeatureFactory.dll
+d:\users\ism\documents\visual studio 2013\Projects\ConditionalsAndRefactoring\FeatureFactory\obj\Debug\FeatureFactory.pdb
+C:\ConditionalsAndRefactoring\FeatureFactory\bin\Debug\FeatureFactory.dll
+C:\ConditionalsAndRefactoring\FeatureFactory\bin\Debug\FeatureFactory.pdb
+C:\ConditionalsAndRefactoring\FeatureFactory\obj\Debug\FeatureFactory.csprojResolveAssemblyReference.cache
+C:\ConditionalsAndRefactoring\FeatureFactory\obj\Debug\FeatureFactory.dll
+C:\ConditionalsAndRefactoring\FeatureFactory\obj\Debug\FeatureFactory.pdb

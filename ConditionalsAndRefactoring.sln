@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalsAndRefactoring", "ConditionalsAndRefactoring\ConditionalsAndRefactoring.csproj", "{AAD0AF01-30A2-45C7-A6FD-0612D85D99E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureFactory", "FeatureFactory\FeatureFactory.csproj", "{BB9E90A2-B52C-406E-993B-00184F7C347B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD0AF01-30A2-45C7-A6FD-0612D85D99E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD0AF01-30A2-45C7-A6FD-0612D85D99E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD0AF01-30A2-45C7-A6FD-0612D85D99E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD0AF01-30A2-45C7-A6FD-0612D85D99E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB9E90A2-B52C-406E-993B-00184F7C347B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9E90A2-B52C-406E-993B-00184F7C347B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9E90A2-B52C-406E-993B-00184F7C347B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9E90A2-B52C-406E-993B-00184F7C347B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
